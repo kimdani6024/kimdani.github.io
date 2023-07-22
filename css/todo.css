@@ -1,0 +1,21 @@
+#todo-form input{
+    position: relative;
+    margin: 50px auto;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: var(--padding);
+    background-color: pink;
+    border-radius: 7px;
+    padding: 15px;
+    font-size: 1.2em;
+    border: none;
+    text-align: center;
+}
+
+#todo-list{
+    text-align: center;
+    font-family: 'Sunflower', sans-serif;
+    font-size: 20px;
+}

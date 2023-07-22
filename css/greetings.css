@@ -1,0 +1,31 @@
+#login-form{
+    text-align: center;
+    position: fixed;
+    bottom: 30px;
+    width: 100%;
+}
+
+
+
+#login-form input {
+    
+    display: flex;
+    padding:10px 18px;
+    border-radius:25px;
+    border: 1px solid;
+    background:rgba(255,255,255,.1);
+    text-align: center;
+    display: inline-block;
+}
+
+#greeting{
+
+    text-align: center;
+    position: fixed;
+    bottom: 30px;
+    width: 100%;
+    
+    font-size: 20px;
+    font-family: 'Jua', sans-serif;
+    
+}

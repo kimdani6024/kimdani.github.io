@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Jua&family=Montserrat:wght@200&family=Sunflower:wght@500&family=Tektur&display=swap');
+
+
+@import "background.css";
+@import "clock.css";
+@import "greetings.css";
+@import "quotes.css";
+@import "style.css";
+@import "todo.css";
+@import "weather.css";
+
+
+.hidden{
+    display: none;
+}
+
+.screen-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+  }
+
+
+
+
+
